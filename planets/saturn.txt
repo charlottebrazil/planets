@@ -1,3 +1,8 @@
 This planet has rings.
+<<<<<<< HEAD
 Theyre made of space rocks.
 Charlotte mess up
+
+Theyre made of space rocks....
+....in space
+
